@@ -1,0 +1,139 @@
+@media(max-width: 1224px){
+	.shell { padding: 0 20px; overflow: hidden; }
+
+	.list-foundations li { height: 110px; padding: 0 6px;  }
+	.list-foundations li:last-child { padding: 0 0 0 6px; }
+	.list-foundations li img { height: 100%;  }
+
+}
+
+@media(max-width: 992px){
+	.nav { font-size: 11px; }
+	.nav li { margin-right: 15px;  }
+
+	.intro { padding: 200px 0; min-height: auto;}
+
+	.section-about { padding: 60px 0; }
+
+	h1 { font-size: 28px; }
+	h2 { font-size: 25px; }
+	h3 { font-size: 19px; }
+	h4 { font-size: 17px; }
+
+	.service { font-size: 13px; }
+
+	.list-logos li { margin-bottom: 20px; }
+
+	.list-features li { font-size: 9px; width: 50%; }
+	.list-logos li { width: 35%; }
+
+	.section-story { padding: 104px 30px; }
+
+}
+
+@media(max-width: 768px){
+	.nav-trigger { display: inline-block; }
+	
+
+	.nav { padding-top: 80px;  position: fixed; top: -100%; left: 0;  width: 100%; height: 90%; background-color: #fff; z-index: 5; color: #000; background-color: #fff; -webkit-box-shadow: 0 2px 3px #000; box-shadow: 0 2px 3px #000;
+		-webkit-transition: top .5s; 
+		     -o-transition: top .5s; 
+		        transition: top .5s;  
+	 }
+
+	
+	.header.fixed .nav { padding-top: 70px;  }
+	.nav li { display: block; text-align: center; margin-right: 0; margin-bottom: 30px;  }
+	.nav .lang a:hover  { color: #000;  }
+	.nav a.btn  { border-color: #000; color: #000;  }
+	.nav a.btn:hover  { color: #fff; }
+	.nav a.btn:hover:after  { background-color: #000;    }
+
+	
+
+	 .intro h3 { line-height: 1.5; }
+	 .intro .intro-content:before  { top: 44px;  }
+
+	
+	h1  { font-size: 20px; }
+	h2  { font-size: 18px; }
+	h3  { font-size: 17px;  }
+	h4  { font-size: 16px;  }
+
+	body { font-size: 13px; }
+	
+	.col-1of2,
+	.col-1of3 { float: none; width: 100%; }
+	.service { margin-bottom: 40px; }
+	.section .section-head p { font-size: 11px; }
+
+	.section-services { padding: 67px 0 57px; }
+
+	
+	.project .col-1of2 { margin-bottom: 20px;  }
+	.project .project-image img { width: 100%; 
+	-webkit-transform: none; 
+	    -ms-transform: none; 
+	     -o-transform: none; 
+	        transform: none;  }  
+
+	.list-updates { padding-left: 0; }
+
+	.list-statistics li { width: 50%; margin-bottom: 40px;  }
+	.section-statistics { padding: 44px 0 4px; }
+	.section-story img { width: 100%; }
+	.section-tribe { padding: 50px 0; }
+	.section-tribe .section-head { margin-bottom: 50px; }
+	.section-tribe .section-image img { width: 100%; }
+	.section-support { padding: 70px 0; }
+	.section-support .section-head { margin-bottom: 70px; }
+	.section-support .section-image,
+	.section-support .section-content { width: 100%; float: none; }
+	.section-support .section-image  { margin-bottom: 30px;  }
+	.section-support .section-image img { width: 100%; }
+	.list-foundations li { height: 110px; padding: 0; }
+	.list-foundations li img { height: 100%;  }
+	.list-foundations li:last-child { padding: 0; }
+	.list-foundations li:first-child  { padding: 0 0 0 25px;  }
+	.list-foundations li:nth-child(2) { padding: 0 0 0 6px; }
+
+	.footer .col-size1,
+	.footer .col-size2 { width: 50%; margin-bottom: 30px;  }
+	.footer .col-size1 { padding-right: 10px; }
+	.footer .col-size2  { border: 0;  }
+	.footer .col-size3  { width: 100%; padding-left: 0;  }
+
+}
+
+@media(max-width: 560px){
+	.intro h2 { font-size: 25px; }
+	.intro h3  { font-size: 20px;  }
+	.list-foundations li { width: 100%; float: none; height: 250px; margin-bottom: 20px;  }
+	.list-foundations li img { width: 100%; ;  }
+	.list-foundations li:last-child,
+	.list-foundations li:first-child , 
+	.list-foundations li:nth-child(2) { padding: 10px; }
+	.list-foundations { margin: 0; }
+
+	.list-logos li { width: 100%; margin-right: 0; }
+	.intro .typed { line-height: 1.6;  font-size: 19px; }
+	.intro h2 { font-size: 22px; }
+	.intro .intro-content:before { top: 60px; }
+
+}
+
+@media(max-width: 366px){
+	.intro h2 { font-size: 20px; }
+	h1 { font-size: 17px; }
+	.intro .typed { font-size: 16px; }
+	.intro h2 { font-size: 19px; }
+	.intro .intro-content:before { top: 50px; }
+
+	.list-statistics li { width: 100%; float: left; }
+
+	.footer .col-size1,
+	.footer .col-size2 { width: 100%; border: 0; padding-left: 0; border-bottom: 1px solid #6d6d6d; }
+
+
+
+}

@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'DejaVuSans';
+  src: url('fonts/DejaVuSans-ExtraLight.eot');
+  src: url('fonts/DejaVuSans-ExtraLight.woff2') format('woff2'),
+       url('fonts/DejaVuSans-ExtraLight.woff') format('woff'),
+       url('fonts/DejaVuSans-ExtraLight.ttf') format('truetype'),
+       url('fonts/DejaVuSans-ExtraLight.svg#DejaVuSans-ExtraLight') format('svg'),
+       url('fonts/DejaVuSans-ExtraLight.eot?#iefix') format('embedded-opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DejaVuSans';
+  src: url('fonts/DejaVuSans.eot');
+  src: url('fonts/DejaVuSans.woff2') format('woff2'),
+       url('fonts/DejaVuSans.woff') format('woff'),
+       url('fonts/DejaVuSans.ttf') format('truetype'),
+       url('fonts/DejaVuSans.svg#DejaVuSans') format('svg'),
+       url('fonts/DejaVuSans.eot?#iefix') format('embedded-opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DejaVuSans';
+  src: url('fonts/DejaVuSans-Bold.eot');
+  src: url('fonts/DejaVuSans-Bold.woff2') format('woff2'),
+       url('fonts/DejaVuSans-Bold.woff') format('woff'),
+       url('fonts/DejaVuSans-Bold.ttf') format('truetype'),
+       url('fonts/DejaVuSans-Bold.svg#DejaVuSans-Bold') format('svg'),
+       url('fonts/DejaVuSans-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DejaVuSansCondensed-Oblique';
+  src: url('fonts/DejaVuSansCondensed-Oblique.eot');
+  src: url('fonts/DejaVuSansCondensed-Oblique.woff2') format('woff2'),
+       url('fonts/DejaVuSansCondensed-Oblique.woff') format('woff'),
+       url('fonts/DejaVuSansCondensed-Oblique.ttf') format('truetype'),
+       url('fonts/DejaVuSansCondensed-Oblique.svg#DejaVuSansCondensed-Oblique') format('svg'),
+       url('fonts/DejaVuSansCondensed-Oblique.eot?#iefix') format('embedded-opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DejaVuSerif';
+  src: url('fonts/DejaVuSerif.eot');
+  src: url('fonts/DejaVuSerif.woff2') format('woff2'),
+       url('fonts/DejaVuSerif.woff') format('woff'),
+       url('fonts/DejaVuSerif.ttf') format('truetype'),
+       url('fonts/DejaVuSerif.svg#DejaVuSerif') format('svg'),
+       url('fonts/DejaVuSerif.eot?#iefix') format('embedded-opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DejaVuSansCondensed';
+  src: url('fonts/DejaVuSansCondensed.eot');
+  src: url('fonts/DejaVuSansCondensed.woff2') format('woff2'),
+       url('fonts/DejaVuSansCondensed.woff') format('woff'),
+       url('fonts/DejaVuSansCondensed.ttf') format('truetype'),
+       url('fonts/DejaVuSansCondensed.svg#DejaVuSansCondensed') format('svg'),
+       url('fonts/DejaVuSansCondensed.eot?#iefix') format('embedded-opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
